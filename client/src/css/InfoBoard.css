@@ -1,0 +1,11 @@
+.Intro {
+    margin: 40px;
+    line-height: 200%;
+    padding: 50px;
+    font-size:17px;
+    font-family:"Courier New", Courier, monospace;
+}
+
+.row {
+    padding: 30px;
+}

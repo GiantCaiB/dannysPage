@@ -1,0 +1,13 @@
+.Info {
+    margin: 40px;
+    line-height: 200%;
+    padding: 50px;
+    font-size:17px;
+    color: green;
+    font-family: 'Eater';
+    font-weight: 1000;
+}
+
+.row {
+    padding: 30px;
+}
