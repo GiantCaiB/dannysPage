@@ -1,1 +1,1 @@
-https://sleepy-plains-20707.herokuapp.com/ | https://git.heroku.com/sleepy-plains-20707.git
+https://sleepy-plains-20707.herokuapp.com/
